@@ -1,0 +1,31 @@
+{
+  "qq_number": "1480899372",
+  "group_number": "1039966969",
+  "updated_at": "2026-04-22T16:19:30.529649",
+  "skins": [
+    {
+      "name": "卖萌我第一",
+      "file": "卖萌我第一.bds",
+      "thumb": "卖萌我第一.bds_py_26_default_thumb.png",
+      "full": "卖萌我第一.bds_py_26_default.png"
+    },
+    {
+      "name": "⊹ꔫ⊹茹♡少女宅⊹ꔫ⊹",
+      "file": "ꔫ茹少女宅ꔫ.bds",
+      "thumb": "ꔫ茹少女宅ꔫ.bds_py_26_default_thumb.png",
+      "full": "ꔫ茹少女宅ꔫ.bds_py_26_default.png"
+    },
+    {
+      "name": "⊹ꔫ⊹茹♡少女宅⊹ꔫ⊹",
+      "file": "ꔫ茹少女宅ꔫ.bdi",
+      "thumb": "ꔫ茹少女宅ꔫ.bdi_py_26_default_thumb.png",
+      "full": "ꔫ茹少女宅ꔫ.bdi_py_26_default.png"
+    },
+    {
+      "name": "卖萌我第一",
+      "file": "卖萌我第一.bdi",
+      "thumb": "卖萌我第一.bdi_py_26_default_thumb.png",
+      "full": "卖萌我第一.bdi_py_26_default.png"
+    }
+  ]
+}
