@@ -1,7 +1,7 @@
 {
   "qq_number": "1480899372",
   "group_number": "1039966969",
-  "updated_at": "2026-04-23T15:52:38.576061",
+  "updated_at": "2026-06-11T07:23:34+00:00",
   "skins": [
     {
       "name": "⊹ꔫ⊹茹♡少女宅⊹ꔫ⊹",
@@ -26,6 +26,12 @@
       "file": "ꔫ茹少女宅ꔫ.bds",
       "thumb": "ꔫ茹少女宅ꔫ.bds_py_26_default_thumb.png",
       "full": "ꔫ茹少女宅ꔫ.bds_py_26_default.png"
+    },
+    {
+      "name": "兔気喵",
+      "file": "兔気喵贴贴.bdi",
+      "thumb": "兔気喵贴贴.bdi_py_26_light_thumb.png",
+      "full": "兔気喵贴贴.bdi_py_26_light_thumb.png"
     }
   ]
 }
