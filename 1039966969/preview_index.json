@@ -1,7 +1,7 @@
 {
   "qq_number": "1480899372",
   "group_number": "1039966969",
-  "updated_at": "2026-07-26T04:58:09+00:00",
+  "updated_at": "2026-10-30T07:17:13+00:00",
   "skins": [
     {
       "name": "⊹ꔫ⊹茹♡少女宅⊹ꔫ⊹",
@@ -56,6 +56,13 @@
       "file": "饼饼のbaby兔熊掉落01.bdi",
       "thumb": "饼饼のbaby兔熊掉落01.bdi_py_26_light_thumb.png",
       "full": "饼饼のbaby兔熊掉落01.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "饼の幸运天使兔普通",
+      "file": "饼の幸运天使兔普通.bds",
+      "thumb": "饼の幸运天使兔普通.bds_py_26_light_thumb.png",
+      "full": "饼の幸运天使兔普通.bds_py_26_light_thumb.png",
+      "file_id": "422ffe56171b948c1d32ceab8b34ea72"
     }
   ]
 }
