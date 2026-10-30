@@ -1,7 +1,7 @@
 {
   "qq_number": "1480899372",
   "group_number": "1039966969",
-  "updated_at": "2026-10-30T07:17:13+00:00",
+  "updated_at": "2026-10-30T07:29:13+00:00",
   "skins": [
     {
       "name": "⊹ꔫ⊹茹♡少女宅⊹ꔫ⊹",
@@ -63,6 +63,13 @@
       "thumb": "饼の幸运天使兔普通.bds_py_26_light_thumb.png",
       "full": "饼の幸运天使兔普通.bds_py_26_light_thumb.png",
       "file_id": "422ffe56171b948c1d32ceab8b34ea72"
+    },
+    {
+      "name": "猫尾女仆",
+      "file": "猫尾女仆.bds",
+      "thumb": "猫尾女仆.bds_py_26_light_thumb.png",
+      "full": "猫尾女仆.bds_py_26_light_thumb.png",
+      "file_id": "aae18a6689f3e8f69346cfbc2e965b7a"
     }
   ]
 }
